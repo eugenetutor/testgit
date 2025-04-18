@@ -4,7 +4,7 @@ public class Main {
         int b = 7;
         int c = 7;
         System.out.println(a+b+c);
-        String tokenAPI = "402880824ff933a4014ff9345d7c0002";
-        System.out.println(tokenAPI);
+        String keyPasswordAPI = "402880824ff933a4014ff9345d7c0002";
+        System.out.println(keyPasswordAPI);
     }
 }
