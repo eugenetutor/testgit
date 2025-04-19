@@ -20,5 +20,13 @@ public class Main {
         System.out.println("bhbd");
 
 
+
+        System.out.println("Hello From The Netherlands!");
+
+        double firstDigit = 455.5;
+        double secondDigit =455.5;
+
+        System.out.println(firstDigit + secondDigit);
+
     }
 }
