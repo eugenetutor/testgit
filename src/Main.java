@@ -17,6 +17,9 @@ public class Main {
 
 
         System.out.println("hi");
+
+        String DevName1 = "Arthur";
+
         System.out.println("bhbd");
 
 
@@ -27,6 +30,7 @@ public class Main {
         double secondDigit =455.5;
 
         System.out.println(firstDigit + secondDigit);
+
 
     }
 }
