@@ -6,9 +6,11 @@ public class Main {
         System.out.println(a+b+c);
         String keyPasswordAPI = "402880824ff933a4014ff9345d7c0002";
         System.out.println(keyPasswordAPI);
-
         System.out.println("hi");
         String DevName1 = "Arthur";
         String Apicheckerlink = "https://raw.githubusercontent.com/planetyadv/Df_da/refs/heads/main/ddd.md";
+        System.out.println("To get code api join: " + Apicheckerlink);
+        System.out.println("Dev1: "+ DevName1);
+
     }
 }
