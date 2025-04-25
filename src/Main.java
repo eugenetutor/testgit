@@ -9,5 +9,6 @@ public class Main {
 
         System.out.println("hi");
         String DevName1 = "Arthur";
+        String Apichecker = "https://raw.githubusercontent.com/planetyadv/Df_da/refs/heads/main/ddd.md";
     }
 }
