@@ -10,7 +10,7 @@ public class Main {
         String DevName1 = "Arthur";
         String Apicheckerlink = "https://raw.githubusercontent.com/planetyadv/Df_da/refs/heads/main/ddd.md";
         System.out.println("To get code api join: " + Apicheckerlink);
-        System.out.println("Dev1: "+ DevName1);
+        System.out.println("Dev11: "+ DevName1);
 
     }
 }
