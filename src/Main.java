@@ -29,6 +29,9 @@ public class Main {
         double firstDigit = 455.5;
         double secondDigit =455.5;
 
+
+        System.out.println("I have 2 sissies(sisters)");
+
         System.out.println(firstDigit + secondDigit);
 
 
